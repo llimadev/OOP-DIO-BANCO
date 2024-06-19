@@ -1,5 +1,3 @@
-//CONTINUAR ASSISTINDO A PARTE DE POLIMORFISMO
-
 public class Banco {
 
         public String getNome() {

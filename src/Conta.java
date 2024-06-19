@@ -19,7 +19,7 @@ public class Conta implements iConta {
         this.numero = SEQUENCIAL++;
         this.cliente = cliente;
     }
-    
+
     public int getAgencia() {
         return agencia;
     }
